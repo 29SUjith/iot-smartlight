@@ -23,22 +23,15 @@ This project leverages the versatile Arduino Nano as the central control unit to
 
 ## 📸 Illustrated Images
 
-<p float="left">
-  <img src="https://github.com/itheaks/iot-smartlight/assets/134759689/fa9aa5b3-a029-48d2-979e-5d956959e3bc" width="60%" />
-  <img src="https://github.com/itheaks/iot-smartlight/assets/134759689/9fb20cfd-c24c-4469-a9e9-e01a1aed5213" width="40%" />
-</p>
 
+![image](https://github.com/itheaks/iot-smartlight/assets/134759689/4ab23fc3-18fb-484c-b367-3f82f0d397d9)
 
-![image](https://github.com/itheaks/iot-smartlight/assets/134759689/fa9aa5b3-a029-48d2-979e-5d956959e3bc)
-
-![image](https://github.com/itheaks/iot-smartlight/assets/134759689/9fb20cfd-c24c-4469-a9e9-e01a1aed5213)
 
 - Image 1: Project deactivating the relay and turning off the bulb.
 
 
-![image](https://github.com/itheaks/iot-smartlight/assets/134759689/d44e8f83-0ca5-4211-a446-4978c9397f20)
+![image](https://github.com/itheaks/iot-smartlight/assets/134759689/571d5a35-ea8a-408d-839f-b117260c4ea6)
 
-![image](https://github.com/itheaks/iot-smartlight/assets/134759689/dfa76e8c-45ae-41d8-b458-324095cc8a6f)
 
 - Image 2: Project activating the relay and turning on the bulb.
 
