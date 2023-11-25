@@ -1,6 +1,6 @@
 # Arduino-Based Smart Light Project
 
-## 📚 Introduction
+## 📚 Introduction.  
 This project leverages the versatile Arduino Nano as the central control unit to process data and manage the connected components. The project features a pair of HC-SR04 ultrasonic sensors, a NE555 timer, a relay, a diode, two resistors (200k ohm and 10k ohm), two capacitors (22 micro F and 0.01 micro F), and a Common Cathode 7-Segment Display. The primary goal of this project is to measure distances in two distinct directions, visualize the results using a 7-segment display, and control an external load based on specific conditions. This comprehensive report offers an in-depth understanding of the project, its materials, working principles, and a conclusive summary.
 
 ## 🧰 Materials Used
